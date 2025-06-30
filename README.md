@@ -15,6 +15,14 @@ Focus stakeholders:
 
 3.  Safety & Operations Teams: Can implement the recommendations to reduce incident rates.
 
+### Key Business Questions
+
+1.  Which aircraft types and configurations are associated with higher accident or injury rates?
+
+2.  Do flight purposes or weather conditions significantly affect accident severity?
+
+3.  What data-driven recommendations can be made to reduce injury and fatality risks?
+
 
 ## Data Understanding and Analysis
 ### Data Overview
@@ -65,9 +73,9 @@ Combined plots show high-risk combinations (e.g., personal flights in VMC)
 
 #### Key Observations
 
-Weather alone is not the best predictor of fatality risk
+Weather alone is not the best predictor of fatality risk. Most events occurred in VMC (clear weather), implying that weather isn’t always the leading factor.
 
-Flight Purpose is a major factor: personal flights had a higher injury burden
+Flight Purpose is a major factor: personal flights had a higher injury burden  compared to commercial or business operations.
 
 Aircraft Make/Model patterns suggest that frequently used aircraft have more incidents, but not necessarily higher severity
 
