@@ -97,3 +97,4 @@ By focusing on aircraft with better safety profiles and understanding contextual
 Python, Pandas, Seaborn, Matplotlib
 Jupyter Notebook
 Git & GitHub
+Tableau Dashboard link: https://public.tableau.com/app/profile/henry.njoroge/viz/Tableau_17513224238410/Dashboard?publish=yes
